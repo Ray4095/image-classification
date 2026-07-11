@@ -15,8 +15,9 @@ Train an image classification model using Google Teachable Machine and classify 
 5. Tested the model using a sample image and saved the output screenshot.
 
 ## Files
-- keras_model.h5
-- labels.txt
-- image_classifier.py
-- test_image.jpg
-- output_screenshot.png
+
+- [Python Script](image_classifier.py)
+- [Trained Model](keras_model.h5)
+- [Class Labels](labels.txt)
+- [Test Image](test_image.jpg)
+- [Output Screenshot](output_screenshot.png)
